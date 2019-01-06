@@ -85,5 +85,4 @@ HTTP/1.1协议中共定义了八种方法（也叫“动作”）来以不同方
 例子：
 
 	# curl http://www.linux.com
-	执行后，www.linux.com 的html就会显示在屏幕上了
- 
+	执行后，www.linux.com 的html就会显示在屏幕上了，curl还有许多的操作，详细的可以google查看。
